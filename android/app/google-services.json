@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744878456273",
+    "firebase_url": "https://controle-de-pausa-default-rtdb.firebaseio.com",
+    "project_id": "controle-de-pausa",
+    "storage_bucket": "controle-de-pausa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744878456273:android:309d51ecad1c4bcfe634f0",
+        "android_client_info": {
+          "package_name": "com.pausa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744878456273-r519eftnph52ohbnn1hm89209130hs26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqtuhY-bSTmUJEVv9nWx8pjKFcbdzGef0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744878456273-r519eftnph52ohbnn1hm89209130hs26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
